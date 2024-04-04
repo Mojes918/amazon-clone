@@ -1,2 +1,4 @@
 # amazon-clone
-it is clone for amazon site
+amazon e-commerce website clone 
+using next.js,tailwind.css,react.js,node.js,amplication etc..
+
